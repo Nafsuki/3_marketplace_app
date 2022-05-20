@@ -1,0 +1,14 @@
+.user-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.user-card {
+	border: 0.1rem solid black;
+}
+
+.user-name {
+	font-size: 1.6rem;
+	margin: 1rem;
+}
